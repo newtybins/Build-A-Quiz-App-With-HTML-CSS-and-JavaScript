@@ -3,8 +3,8 @@
 
 ## Lessons
 
-1. [Create and Style the Home Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/)
-2. **Create and Style the Game Page**
+1. [Create and Style the Home Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lesson%201.%20Create%20and%20Style%20the%20Home%20Page)
+2. [Create and Style the Game Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lesson%202.%20Create%20and%20Style%20the%20Game%20Page)
 3. **Display Hard Coded Questions and Answers**
 4. **Display Feedback for Correct/Incorrect Answers**
 5. **Create Head's Up Display (HUD)**
