@@ -58,7 +58,7 @@ const getNewQuestion = () => {
   // check if any questions are left
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     // go to the end page
-    return window.location.assign('/end.html')
+    return window.location.assign('./end.html')
   }
 
   // increment the question counter by 1
