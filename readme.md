@@ -11,7 +11,7 @@
 6. [Create a Progress Bar](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%206.%20Create%20a%20Progress%20Bar)
 7. [Create and Style the End Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%207.%20Create%20and%20Style%20the%20End%20Page)
 8. [Save High Scores in Local Storage](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%208.%20Save%20High%20Scores%20in%20Local%20Storage)
-9. **Load and Display High Scores from Local Storage**
+9. [Load and Display High Scores from Local Storage](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%209.%20Load%20and%20Display%20High%20Scores%20from%20Local%20Storage)
 10. **Fetch API to Load Questions from Local JSON File**
 11. **Fetch API to Load Questions from Open Trivia DB API**
 12. **Create a Spinning Loader**
