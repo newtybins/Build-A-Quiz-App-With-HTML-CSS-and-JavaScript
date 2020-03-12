@@ -13,7 +13,7 @@
 8. [Save High Scores in Local Storage](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%208.%20Save%20High%20Scores%20in%20Local%20Storage)
 9. [Load and Display High Scores from Local Storage](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%209.%20Load%20and%20Display%20High%20Scores%20from%20Local%20Storage)
 10. [Fetch API to Load Questions from Local JSON File](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%2010.%20Fetch%20API%20to%20Load%20Questions%20from%20Local%20JSON%20File)
-11. **Fetch API to Load Questions from Open Trivia DB API**
+11. [Fetch API to Load Questions from Open Trivia DB API](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%2011.%20Fetch%20API%20to%20Load%20Questions%20from%20Open%20Trivia%20DB%20API)
 12. **Create a Spinning Loader**
 
 <sup>I changed small bits of the code to fit my programming style more - such as using .querySelector instead of .getElementById</sup>
