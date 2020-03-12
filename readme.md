@@ -7,7 +7,7 @@
 2. [Create and Style the Game Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%202.%20Create%20and%20Style%20the%20Game%20Page)
 3. [Display Hard Coded Questions and Answers](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%203.%20Display%20Hard%20Coded%20Questions%20and%20Answers)
 4. [Display Feedback for Correct/Incorrect Answers](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%204.%20Display%20Feedback%20for%20Correct%20or%20Incorrect%20Answers)
-5. **Create Head's Up Display (HUD)**
+5. [Create Head's Up Display (HUD)](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%205.%20Create%20Head's%20Up%20Display%20(HUD))
 6. **Create a Progress Bar**
 7. **Create and Style the End Page**
 8. **Save High Scores in Local Storage**
