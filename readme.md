@@ -1,6 +1,8 @@
 # Build a Quiz App with HTML, CSS, and JavaScript
 > My completion of the popular course by [James Quick](https://github.com/jamesqquick/).
 
+![](certificate.jpg)
+
 ## Lectures
 
 1. [Create and Style the Home Page](https://github.com/itsnewt/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/tree/master/Lecture%201.%20Create%20and%20Style%20the%20Home%20Page)
